@@ -2,5 +2,5 @@
 My first GitHub repository
 
 Add some formula here  
-*Work with "MathJax Plugin for GitHub"*  
 $$E=mc^{2}$$
+*It works with "MathJax Plugin for GitHub"*  
